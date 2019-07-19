@@ -34,7 +34,7 @@ class PsqlDriver {
         $return['content'] = array();
 
         while($line = pg_fetch_assoc($query)){
-            $return['content'] = $line;
+            $return['content'][] = $line;
         }
 
         return $return;
