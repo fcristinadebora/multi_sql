@@ -1,5 +1,5 @@
 ## MULTI SQL ##
-Multi SQL é um software para execução de scripts SQL em múltiplas bases de dados construída em: PHP + Jquery (sorry for that, rs).
+Multi SQL é um software para execução de scripts SQL em múltiplas bases de dados construída em: PHP + Jquery (sorry about that, rs).
 
 ## COMO USAR ##
 - Renomeie o arquivo databases.example.csv para databases.csv e preencha de acordo com o exemplo (mantenha a linha de cabeçalho);
